@@ -1,0 +1,1 @@
+from is first instruction of dockerfile it is base image
